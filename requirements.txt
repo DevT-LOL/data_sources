@@ -1,3 +1,5 @@
 websockets
 termcolor
 pytz
+paramiko 
+tqdm
